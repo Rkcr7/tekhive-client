@@ -3,6 +3,9 @@
 ## Overview
 TekHive Client is the frontend component of the TekHive platform, a modern social networking application designed specifically for tech professionals. Built with Vue.js, this single-page application (SPA) provides an intuitive and responsive user interface for connecting with other tech professionals, real-time messaging, and profile management.
 
+## Related Repositories
+- Backend Server: [TekHive Server](https://github.com/Rkcr7/tekhive-server)
+
 ## Technology Stack
 - **Framework**: Vue.js 3
 - **State Management**: Vuex
@@ -182,4 +185,3 @@ Common issues and their solutions:
 - WebSocket connection issues
 - Authentication errors
 - Build optimization problems
-
